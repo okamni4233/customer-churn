@@ -1,0 +1,21 @@
+# entorno virtual
+venv/
+.venv/
+
+# python
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# variables de entorno
+.env
+
+# archivos grandes o datos
+data/
+*.csv
+
+# sistema
+.DS_Store
+Thumbs.db
