@@ -13,7 +13,8 @@ __pycache__/
 .env
 
 # archivos grandes o datos
-data/
+data/*
+!data/.gitkeep
 *.csv
 
 # sistema
